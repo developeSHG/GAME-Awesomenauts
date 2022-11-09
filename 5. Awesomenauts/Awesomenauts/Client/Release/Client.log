@@ -1,0 +1,112 @@
+﻿  stdafx.cpp
+  Animation.cpp
+  AstarMgr.cpp
+  Bar.cpp
+  BlueLight.cpp
+  BluePortal.cpp
+  Booster.cpp
+  BushCenter.cpp
+  BushDown.cpp
+  CenterLight.cpp
+  Client.cpp
+  CollisionMgr.cpp
+  DeviceMgr.cpp
+  Door.cpp
+  Egg.cpp
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Egg.cpp(132,67): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Egg.cpp(134,70): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Element.cpp
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Element.cpp(139,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FrameMgr.cpp
+  GameObject.cpp
+  Gear.cpp
+  Goblin.cpp
+  HealPortal.cpp
+  컴파일하고 있습니다...
+  Hero.cpp
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Hero.cpp(36,49): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Hero.cpp(71,12): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Hero.cpp(72,13): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Hero.cpp(73,11): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Hero.cpp(141,13): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Hurt.cpp
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Hurt.cpp(380,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ItemMgr.cpp
+  JungleDeco.cpp
+  JunglePortal.cpp
+  KeyMgr.cpp
+  Lion.cpp
+  Logo.cpp
+  Maingame.cpp
+  Minimap.cpp
+  Minion.cpp
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Minion.cpp(32,49): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Minion.cpp(63,12): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Minion.cpp(64,13): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Minion.cpp(65,11): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Minion.cpp(386,14): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Minion.cpp(519,14): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mouse.cpp
+  MoveTile.cpp
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\MoveTile.cpp(105,138): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MultiTexture.cpp
+  MyMap.cpp
+  MyTable.cpp
+  ObjectMgr.cpp
+  Player.cpp
+  RedLight.cpp
+  RedPortal.cpp
+  컴파일하고 있습니다...
+  Right.cpp
+  Saver.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  ScrollMgr.cpp
+  Shark.cpp
+  SingleTexture.cpp
+  Item.cpp
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Item.cpp(170,138): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SoundMgr.cpp
+  Space.cpp
+  SpaceEnding.cpp
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\SpaceEnding.cpp(83,50): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\SpaceEnding.cpp(162,17): warning C4244: '초기화 중': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage.cpp
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Stage.cpp(69,4): warning C4003: 함수 같은 매크로 호출 'FAILED_CHECK_MSG_RETURN'에 대해 인수가 부족합니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Stage.cpp(73,4): warning C4003: 함수 같은 매크로 호출 'FAILED_CHECK_MSG_RETURN'에 대해 인수가 부족합니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Stage.cpp(84,4): warning C4003: 함수 같은 매크로 호출 'FAILED_CHECK_MSG_RETURN'에 대해 인수가 부족합니다.
+  Status.cpp
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(40,49): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(90,12): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(91,13): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(92,11): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(107,12): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(108,13): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(109,11): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(194,12): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(196,11): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(197,14): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(211,12): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(213,11): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(214,14): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(228,12): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(230,11): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(231,14): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(245,12): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(247,11): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Status.cpp(248,14): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StormBreaker.cpp
+  Texture.cpp
+  TextureMgr.cpp
+  TimeMgr.cpp
+  Tower.cpp
+  Unit.cpp
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Unit.cpp(51,138): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Yeti.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Tower.cpp(272): warning C4715: 'CTower::CreateElement': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Client\Shark.cpp(289): warning C4715: 'CShark::CreateElement': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  All 1817 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Client.vcxproj -> D:\Songsong.Official\Project\5. Awesomenauts\Awesomenauts\Release\Client.exe
