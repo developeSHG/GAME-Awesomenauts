@@ -1,0 +1,112 @@
+﻿  stdafx.cpp
+  Animation.cpp
+  AstarMgr.cpp
+  Bar.cpp
+  BlueLight.cpp
+  BluePortal.cpp
+  Booster.cpp
+  BushCenter.cpp
+  BushDown.cpp
+  CenterLight.cpp
+  Client.cpp
+  CollisionMgr.cpp
+  DeviceMgr.cpp
+  Door.cpp
+  Egg.cpp
+Egg.cpp(132): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Egg.cpp(134): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Element.cpp
+Element.cpp(139): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FrameMgr.cpp
+  GameObject.cpp
+  Gear.cpp
+  Goblin.cpp
+  HealPortal.cpp
+  컴파일하고 있습니다...
+  Hero.cpp
+Hero.cpp(36): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Hero.cpp(71): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Hero.cpp(72): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Hero.cpp(73): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Hero.cpp(141): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Hurt.cpp
+Hurt.cpp(380): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ItemMgr.cpp
+  JungleDeco.cpp
+  JunglePortal.cpp
+  KeyMgr.cpp
+  Lion.cpp
+  Logo.cpp
+  Maingame.cpp
+  Minimap.cpp
+  Minion.cpp
+Minion.cpp(32): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Minion.cpp(63): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Minion.cpp(64): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Minion.cpp(65): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Minion.cpp(386): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Minion.cpp(519): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mouse.cpp
+  MoveTile.cpp
+MoveTile.cpp(105): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MultiTexture.cpp
+  MyMap.cpp
+  MyTable.cpp
+  ObjectMgr.cpp
+  Player.cpp
+  RedLight.cpp
+  RedPortal.cpp
+  컴파일하고 있습니다...
+  Right.cpp
+  Saver.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  ScrollMgr.cpp
+  Shark.cpp
+  SingleTexture.cpp
+  Item.cpp
+Item.cpp(170): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SoundMgr.cpp
+  Space.cpp
+  SpaceEnding.cpp
+SpaceEnding.cpp(83): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+SpaceEnding.cpp(162): warning C4244: '초기화 중': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage.cpp
+Stage.cpp(69): warning C4003: 'FAILED_CHECK_MSG_RETURN' 매크로의 실제 매개 변수가 부족합니다.
+Stage.cpp(73): warning C4003: 'FAILED_CHECK_MSG_RETURN' 매크로의 실제 매개 변수가 부족합니다.
+Stage.cpp(84): warning C4003: 'FAILED_CHECK_MSG_RETURN' 매크로의 실제 매개 변수가 부족합니다.
+  Status.cpp
+Status.cpp(40): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(90): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(91): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(92): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(107): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(108): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(109): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(194): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(196): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(197): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(211): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(213): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(214): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(228): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(230): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(231): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(245): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(247): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Status.cpp(248): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StormBreaker.cpp
+  Texture.cpp
+  TextureMgr.cpp
+  TimeMgr.cpp
+  Tower.cpp
+  Unit.cpp
+Unit.cpp(51): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Yeti.cpp
+  코드를 생성하고 있습니다.
+c:\users\ghrud\onedrive\바탕 화면\awesomenauts\client\tower.cpp(272): warning C4715: 'CTower::CreateElement': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\ghrud\onedrive\바탕 화면\awesomenauts\client\shark.cpp(289): warning C4715: 'CShark::CreateElement': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  All 2178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Client.vcxproj -> C:\Users\ghrud\OneDrive\바탕 화면\Awesomenauts\Release\Client.exe
+  Client.vcxproj -> C:\Users\ghrud\OneDrive\바탕 화면\Awesomenauts\Release\Client.pdb (Full PDB)

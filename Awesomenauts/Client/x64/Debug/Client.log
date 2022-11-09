@@ -1,0 +1,29 @@
+﻿DeviceMgr.obj : error LNK2019: Direct3DCreate9 외부 기호(참조 위치: "public: long __cdecl CDeviceMgr::InitDevice(struct HWND__ *,unsigned long const &,unsigned long const &,enum CDeviceMgr::MODE)" (?InitDevice@CDeviceMgr@@QEAAJPEAUHWND__@@AEBK1W4MODE@1@@Z) 함수)에서 확인하지 못했습니다.
+DeviceMgr.obj : error LNK2019: D3DXCreateSprite 외부 기호(참조 위치: "public: long __cdecl CDeviceMgr::InitDevice(struct HWND__ *,unsigned long const &,unsigned long const &,enum CDeviceMgr::MODE)" (?InitDevice@CDeviceMgr@@QEAAJPEAUHWND__@@AEBK1W4MODE@1@@Z) 함수)에서 확인하지 못했습니다.
+DeviceMgr.obj : error LNK2019: D3DXCreateFontIndirectW 외부 기호(참조 위치: "public: long __cdecl CDeviceMgr::InitDevice(struct HWND__ *,unsigned long const &,unsigned long const &,enum CDeviceMgr::MODE)" (?InitDevice@CDeviceMgr@@QEAAJPEAUHWND__@@AEBK1W4MODE@1@@Z) 함수)에서 확인하지 못했습니다.
+FrameMgr.obj : error LNK2019: D3DXMatrixTranslation 외부 기호(참조 위치: "public: void __cdecl CFrameMgr::RenderFPS(void)" (?RenderFPS@CFrameMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+Player.obj : error LNK2001: D3DXMatrixTranslation 외부 기호를 확인할 수 없습니다.
+Terrain.obj : error LNK2001: D3DXMatrixTranslation 외부 기호를 확인할 수 없습니다.
+MultiTexture.obj : error LNK2019: D3DXGetImageInfoFromFileW 외부 기호(참조 위치: "public: virtual long __cdecl CMultiTexture::LoadTexture(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > const &,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > const &,int const &)" (?LoadTexture@CMultiTexture@@UEAAJAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@0AEBH@Z) 함수)에서 확인하지 못했습니다.
+SingleTexture.obj : error LNK2001: D3DXGetImageInfoFromFileW 외부 기호를 확인할 수 없습니다.
+MultiTexture.obj : error LNK2019: D3DXCreateTextureFromFileExW 외부 기호(참조 위치: "public: virtual long __cdecl CMultiTexture::LoadTexture(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > const &,class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > const &,int const &)" (?LoadTexture@CMultiTexture@@UEAAJAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@0AEBH@Z) 함수)에서 확인하지 못했습니다.
+SingleTexture.obj : error LNK2001: D3DXCreateTextureFromFileExW 외부 기호를 확인할 수 없습니다.
+Player.obj : error LNK2019: D3DXMatrixMultiply 외부 기호(참조 위치: "public: struct D3DXMATRIX __cdecl D3DXMATRIX::operator*(struct D3DXMATRIX const &)const " (??DD3DXMATRIX@@QEBA?AU0@AEBU0@@Z) 함수)에서 확인하지 못했습니다.
+Terrain.obj : error LNK2001: D3DXMatrixMultiply 외부 기호를 확인할 수 없습니다.
+Player.obj : error LNK2019: D3DXMatrixScaling 외부 기호(참조 위치: "public: virtual int __cdecl CPlayer::Update(void)" (?Update@CPlayer@@UEAAHXZ) 함수)에서 확인하지 못했습니다.
+Terrain.obj : error LNK2001: D3DXMatrixScaling 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Create 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Initialize(void)" (?Initialize@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Release 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Init 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Initialize(void)" (?Initialize@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Close 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_Update 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::LoadSoundFile(void)" (?LoadSoundFile@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_CreateSound 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::LoadSoundFile(void)" (?LoadSoundFile@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_System_PlaySound 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::MyPlaySound(wchar_t *,enum CSoundMgr::CHANNELID)" (?MyPlaySound@CSoundMgr@@QEAAXPEA_WW4CHANNELID@1@@Z) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_Sound_Release 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_Channel_Stop 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::StopAll(void)" (?StopAll@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_Channel_SetVolume 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::Initialize(void)" (?Initialize@CSoundMgr@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+SoundMgr.obj : error LNK2019: FMOD_Channel_SetMode 외부 기호(참조 위치: "public: void __cdecl CSoundMgr::PlayBGM(wchar_t *)" (?PlayBGM@CSoundMgr@@QEAAXPEA_W@Z) 함수)에서 확인하지 못했습니다.
+fmodex_vc.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3d9.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3dx9.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\Administrator\Desktop\Awesomenauts\x64\Debug\Client.exe : fatal error LNK1120: 19개의 확인할 수 없는 외부 참조입니다.
