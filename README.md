@@ -1,21 +1,13 @@
 # GAME-Awesomenauts
 [DirectX 2D - Individual Project] 어썸너츠
 
-
 동영상(Client)    : https://www.youtube.com/watch?v=jgt_VzlvIEE
-
-동영상(Tool)      : https://www.youtube.com/watch?v=BUzxY5WcQXY
-
-장르              : AOS
-
-날짜              : 2019.07.01 ~ 2019.08.01
-
-인원              : 1명
-
-개발 환경         : Visual Studio 2015 (x64)
-
-개발 언어 및 도구  : C++, MFC, DirectX9
-
+<br/>동영상(Tool)      : https://www.youtube.com/watch?v=BUzxY5WcQXY
+<br/>장르              : AOS
+<br/>날짜              : 2019.07.01 ~ 2019.08.01
+<br/>인원              : 1명
+<br/>개발 환경         : Visual Studio 2015 (x64)
+<br/>개발 언어 및 도구  : C++, MFC, DirectX9
 
 ======================================================================
 
