@@ -1,4 +1,6 @@
 # GAME-Awesomenauts
+
+<img width="100%" src="https://user-images.githubusercontent.com/79896868/254759951-aea1e6b1-2b97-43a8-952a-26836d1d2e19.png"/>
 <h3>[DirectX 2D - Individual Project] 어썸너츠</h3>
 
 <b>동영상(Client)</b>    : https://www.youtube.com/watch?v=jgt_VzlvIEE
